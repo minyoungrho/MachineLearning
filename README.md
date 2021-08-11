@@ -12,13 +12,13 @@ I use [scikit-learn](https://scikit-learn.org/) library for Python programming l
 
 ## Organization of the Repository:
 
-| Data set/Problem | Jupyter Notebook | Content |
+| Jupyter Notebook | Content | Data set/Problem | 
 |---|:---|:---|
-| [Math Score](https://github.com/minyoungrho/MachineLearning/blob/main/data/scores_synth.csv) |  [Linear Regressions](https://github.com/minyoungrho/MachineLearning/blob/main/classnotes/LinearRegression.ipynb)  | Linear Regressions  |  
-| [Math Score](https://github.com/minyoungrho/MachineLearning/blob/main/data/scores_synth.csv) |  [Nonlinear Regressions](https://github.com/minyoungrho/MachineLearning/blob/main/classnotes/NonLinearRegression.ipynb)  | Linear Regressions, Decision Trees, Random Forest, XGBoost  |   
-| [Covid-19](https://github.com/minyoungrho/MachineLearning/blob/main/data/synth_covid.csv) |  [Classifications](https://github.com/minyoungrho/MachineLearning/blob/main/classnotes/Classfication.ipynb)  | Logistic Regressions, Support Vector Machine (SVM), k-Nearest Neighbor (KNN), XGBoost  |   
-| [Math Score](https://github.com/minyoungrho/MachineLearning/blob/main/data/scores_synth.csv) |  [Tune Hyperparameters](https://github.com/minyoungrho/MachineLearning/blob/main/classnotes/Hyperparameters.ipynb)  | GridSearch, RandomizedSearch  |   
-| [Iris](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) |  [Dimensionality Reduction](https://github.com/minyoungrho/MachineLearning/blob/main/classnotes/HighDimensionalVariables.ipynb)  | Principal Component Analysis (PCA)  |   
+|  [Linear Regressions](https://github.com/minyoungrho/MachineLearning/blob/main/classnotes/LinearRegression.ipynb)  | Linear Regressions  |   [Math Score](https://github.com/minyoungrho/MachineLearning/blob/main/data/scores_synth.csv) |
+| [Nonlinear Regressions](https://github.com/minyoungrho/MachineLearning/blob/main/classnotes/NonLinearRegression.ipynb)  | Linear Regressions, Decision Trees, Random Forest, XGBoost  |  [Math Score](https://github.com/minyoungrho/MachineLearning/blob/main/data/scores_synth.csv) |
+| [Classifications](https://github.com/minyoungrho/MachineLearning/blob/main/classnotes/Classfication.ipynb)  | Logistic Regressions, Support Vector Machine (SVM), k-Nearest Neighbor (KNN), XGBoost  |  [Covid-19](https://github.com/minyoungrho/MachineLearning/blob/main/data/synth_covid.csv) |   
+| [Tune Hyperparameters](https://github.com/minyoungrho/MachineLearning/blob/main/classnotes/Hyperparameters.ipynb)  | GridSearch, RandomizedSearch  |  [Math Score](https://github.com/minyoungrho/MachineLearning/blob/main/data/scores_synth.csv) |  
+|  [Dimensionality Reduction](https://github.com/minyoungrho/MachineLearning/blob/main/classnotes/HighDimensionalVariables.ipynb)  | Principal Component Analysis (PCA)  | [Iris](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) |   
 
 
 ## Description:
